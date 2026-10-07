@@ -1,0 +1,6 @@
+{
+  "name": "Jeffrey Watch Harbor",
+  "description": "Curated luxury timepieces for those who value precision, Swiss craftsmanship, and timeless horological design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
